@@ -1,4 +1,4 @@
-module github.com/elanq/pastebin-go
+module github.com/elanq/tinyurl-go
 
 go 1.20
 

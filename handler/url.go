@@ -4,8 +4,8 @@ import (
 	"database/sql"
 	"net/http"
 
-	"github.com/elanq/pastebin-go/model"
-	"github.com/elanq/pastebin-go/service"
+	"github.com/elanq/tinyurl-go/model"
+	"github.com/elanq/tinyurl-go/service"
 	"github.com/labstack/echo/v4"
 	"github.com/labstack/gommon/log"
 )

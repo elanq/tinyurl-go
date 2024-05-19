@@ -5,7 +5,7 @@ import (
 	"database/sql"
 	"time"
 
-	"github.com/elanq/pastebin-go/model"
+	"github.com/elanq/tinyurl-go/model"
 	_ "github.com/lib/pq"
 )
 

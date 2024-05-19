@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"time"
 
-	"github.com/elanq/pastebin-go/connection"
+	"github.com/elanq/tinyurl-go/connection"
 )
 
 type Cache interface {

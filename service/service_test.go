@@ -4,10 +4,10 @@ import (
 	"context"
 	"testing"
 
-	"github.com/elanq/pastebin-go/model"
-	mock_repository "github.com/elanq/pastebin-go/repository/mock"
-	"github.com/elanq/pastebin-go/service"
-	mock_service "github.com/elanq/pastebin-go/service/mock"
+	"github.com/elanq/tinyurl-go/model"
+	mock_repository "github.com/elanq/tinyurl-go/repository/mock"
+	"github.com/elanq/tinyurl-go/service"
+	mock_service "github.com/elanq/tinyurl-go/service/mock"
 	"github.com/go-redis/redis/v8"
 	"go.uber.org/mock/gomock"
 )

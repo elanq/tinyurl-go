@@ -8,8 +8,8 @@ import (
 	"time"
 
 	"github.com/dchest/uniuri"
-	"github.com/elanq/pastebin-go/model"
-	"github.com/elanq/pastebin-go/repository"
+	"github.com/elanq/tinyurl-go/model"
+	"github.com/elanq/tinyurl-go/repository"
 	"github.com/go-redis/redis/v8"
 )
 
